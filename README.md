@@ -1,2 +1,7 @@
-# dissertation_code
-Code used for Filo's dissertation 
+# Modelling hydrogen
+
+*work in progress*
+
+## Content
+
+- **Filos_coding_etiquette:** coding etiquette
