@@ -2,7 +2,8 @@
 """
 Created on Wed Jan 26 13:47:47 2022
 
-@author: filot
+@author: filoteea
+Adapted from Edward Chung
 """
 
 r"""
