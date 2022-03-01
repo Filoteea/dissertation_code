@@ -7,7 +7,7 @@ Created on Wed Jan 26 13:47:47 2022
 
 r"""
 
-CH4 Forward Model verification
+H2 Forward Model verification
 
 """
 # Standard Library imports
