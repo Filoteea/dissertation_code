@@ -1,0 +1,42 @@
+Colour scheme
+
+Models
+obs_mhd: #8c510a
+obs_wao: #d8b365
+baseline: #f6e8c3
+mod_mhd: #c7eae5
+mod_wao: #5ab4ac
+scenario: #01665e
+
+Measurements:
+mhd: #a6611a
+wao: #dfc27d
+baseline: #80cdc1
+
+Validations models
+obs_wao:
+mod1:
+mod2:
+mod3:
+mod4:
+mod5:
+mod6:
+mod7:
+mod8:
+mod9:
+mod10:
+mod11:
+mod12:
+mod13:
+mod14:
+mod15:
+mod16:
+mod17:
+mod18:
+mod19:
+mod20:
+mod21:
+mod22:
+mod23:
+mod24:
+mod25:

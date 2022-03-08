@@ -1,0 +1,30 @@
+Validation - methane 
+
+Scripts documentation
+
+methane_validation.py - validate Ed's code with CH4 2018 timeseries
+
+chem_ch4_validation.py - support script for methane 2018 validation
+
+con_baseline_validation.py - baseline script for methane validation
+
+timeseries.py - create yearly timeseries
+
+Output - outputs/validation_ch4
+
+baseline: baseline-MHD_10magl-ch4-2018.png
+monthly ch4: hfd_CH4_*date.png
+2018 ch4: timeseries_2018.png
+
+
+baseline csv: baseline-MHD_10magl-ch4-2018.csv
+monthly csv: hfd_ch4_*date.csv
+timeseries: timeseries.csv; ABC.csv
+
+Validation - molecular mass
+
+Scripts
+methane_validation.py
+
+Output - outputs/validation_ch4
+conversion_CH4.png

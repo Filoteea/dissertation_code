@@ -1,0 +1,27 @@
+Models:
+
+scripts: main.py; chem_co.py
+merge_csv.py - merge csv files, run models for all months
+corr_try.py - calc correlation coeff
+plot_models.py - plot 2018 timeseries, calc correlation
+create_model - function to run models
+
+
+
+sink = [0.01, 0.1, 1, 1.5, 2]
+emission_coeff = [2, 1.5, 1, 0.7, 0.5]
+
+
+outputs/models
+
+monthly models - models_2018-*.csv
+monthly models with baseline changed - models_changedbaseline_2018-*.csv
+
+merged - merged_2018-01.csv (01-06 month)
+       - merged_2018-07.csv (07-12 month)
+
+merged with bas - merged_bas_2018-01.csv
+		- merged_bas_2018-07.csv
+
+
+
