@@ -6,7 +6,6 @@ Most of these codes were modified from Edward Chung's and full credits are given
 
 ## Content
 
-- **Filos_coding_etiquette:** coding etiquette
 - **Methane Validation:** scripts used for Section 2.5.
 - **Models:** scripts used for Section 2.9.
 - **Final Model:** scripts used for Section 2.11.
