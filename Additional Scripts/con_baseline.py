@@ -1,7 +1,7 @@
 r"""
 
 Baseline Calculation for Hydrogen
-
+@author Filoteea Moldovan
 Adapted from Edward Chung
 
 """
