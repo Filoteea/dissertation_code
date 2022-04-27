@@ -1,1 +1,2 @@
--**plot_wao_mhd.py:** used for plotting H2 mixing ratios observed at MHD and WAO
+- **plot_wao_mhd.py:** used for plotting H2 mixing ratios observed at MHD and WAO
+- **con_baseline.py:** used for calculating the H2 baseline like in Section 2.3.
