@@ -2,6 +2,7 @@
 
 
 Repository containing all the scripts and documentation used in this dissertation.
+Most of these codes were modified from Edward Chung's and full credits are given to his work.
 
 ## Content
 
