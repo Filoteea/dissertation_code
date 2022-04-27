@@ -2,7 +2,7 @@
 """
 Created on Thur Mar 24 18:01:48 2022
 
-@author: filot
+@author: Filoteea Moldovan
 """
 
 # Standard Library imports
